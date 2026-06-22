@@ -1,7 +1,5 @@
 # AI-Jobs-2030-Analysis_
 Analysis of AI's impact on future job markets using Kaggle dataset.
-## Dashboard Preview
-![AI Jobs Dashboard](data.png)
 
 ## Key Insights
 - Machine Learning Engineer, Data Scientist, and Cloud Architect show the strongest growth and demand by 2030.
